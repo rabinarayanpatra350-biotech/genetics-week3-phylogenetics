@@ -1,0 +1,8 @@
+distance_model,primate,mammal,bird,ray-finned_fish,amniote,tetrapod
+blosum62,yes,yes,yes,yes,no,no
+jones,yes,yes,yes,yes,no,no
+gonnet1992,yes,yes,yes,yes,no,no
+dayhoff,yes,yes,yes,yes,no,no
+pam250,yes,yes,yes,yes,no,no
+blosum45,yes,yes,yes,yes,no,no
+identity,yes,yes,yes,yes,no,no

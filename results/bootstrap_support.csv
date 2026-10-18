@@ -1,0 +1,10 @@
+clade_members,n_members,bootstrap_support_pct
+Bos_taurus;Canis_lupus_familiaris;Homo_sapiens;Mus_musculus;Pan_troglodytes;Petromyzon_marinus,6,31.0
+Bos_taurus;Canis_lupus_familiaris;Homo_sapiens;Mus_musculus;Pan_troglodytes,5,94.2
+Columba_livia;Danio_rerio;Gallus_gallus;Salmo_salar;Xenopus_laevis,5,14.2
+Bos_taurus;Canis_lupus_familiaris;Mus_musculus,3,64.2
+Danio_rerio;Salmo_salar;Xenopus_laevis,3,25.8
+Bos_taurus;Canis_lupus_familiaris,2,93.2
+Columba_livia;Gallus_gallus,2,100.0
+Danio_rerio;Salmo_salar,2,98.8
+Homo_sapiens;Pan_troglodytes,2,100.0

@@ -1,0 +1,7 @@
+expected_clade,recovered_in_nj_tree
+mammal,yes
+bird,yes
+ray-finned_fish,yes
+amniote,no
+tetrapod,no
+primate,yes
